@@ -1,0 +1,10 @@
+<?php
+
+return [
+    'project_id' => 'php-firebase-18c35',
+    'client_email' => 'firebase-adminsdk-fbsvc@php-firebase-18c35.iam.gserviceaccount.com',
+    'private_key' => "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCxkotPfTbNWwaA\ndOF3JeXyUBCT93M09uaApGMn3dFDKcGXpJrSI0TMTzmsDG5r/rHSmqU7vR9AfbcA\nTWyod5IV1nrWlfN6PZdFz8Z8Ul2klixhRwlSvQFj/XGkzzt/Q9kw6eaRVGhxbE2K\nw9PCyOI8Vof/H8h03m7Yn91cOpP9hHALYK7njdw0/Jt884qdAoGjWihu2FFW4Uzq\nCHOrM2ORvXNgK3PLi/9yAVe4P/HJGGWqK2G0wB5JS1rAj1RmD4CWK5C6SIUD+RwE\nFw94/vqOYt6ADOwf9cLXLZXfbhZziTvMU/CpF4WpcIYamui26RE6go4Dl1XuvLos\n96tNkydXAgMBAAECggEAVG2QvyKRw+HbnYf1C2mBg0x+FVw58pzRy6hdXL8imARq\nf2dMFU2fkGS6zwq6Fa7rbW8J0PWCvm8Ha6VkXFU9qBRqI0z4js5p9k9r2ABxdafR\nQg88Z5Jl7ty6A9pkN4ZS5ebQMZkob4VG+QtSy/InXvjlgG/kJ2z61xRrc0aGxqo+\nX0Qb5T9UhikLikdlL7yCcE/k1RMgmAXif4d5GeWh1oxdb5i1U17WTEd+dPoyrUyU\nw8MFf/6TFKSS2OkqYvutqqIIgUNppXALoEUhGdwzg8YOEGr8fz2GOlCr7OXmyNXn\nIzvg10+cmX9LgNwZ8uctpKk2TnO35EvfywNfpEuzwQKBgQDiXb2y58dzxMADWalq\nmGkK4yOLk+UOBqDp2cvuktDqlOwGKYpmNiXhQmvBOKPcA9xwqbgJnX0AzKS5p9SX\nxGcJ14mZqtfEtuwlsIQCkamPr9Ohji+XPiY9A2cEYz1e5yYORikucMZQXzmpXV+Z\n/btfmtWjNUGJt33k+vYXpU7RtQKBgQDI0ZFo5RBma+s2YIV6udsbBkHgDSopp5zo\nT1EFYTf7vx3l6w9uXQnCmt27VWif/q8oEUcqlY19rquxvuptIrFU2CL1QjbB7+ds\noR/Byba2Y0/MTd8Q1o4Ux/RDB3J6TYP5l35ku4BNEsagy+RDn7vJlPi9ZIA0QkGg\nGTOjPKWsWwKBgCD6n0SNWBWZuI/EZFZPVh5r8SXIqjpc5NytCnT7lsxWXfyX2L4D\nbYlf7+r6oYTQWzFeyJ0+AJQ5PFaACQ0DZC+e40EsDrtuGwFysgjdx+JTL3X+DRjv\nyQpikIOnIa3N51F1D1Lgw0O6W+A85ky9FqtbF3zrqVyzCvhtR6UyREVxAoGATnvA\n9ZrYbv7sXUMZx54NaKFoa3UZrk/ofc5J3u1g4M2PlMTqMfrAjsLRt54olqcFs4YV\nJyptstnqFjyECAUQAxW5i9rF5cOp0YWjEKyR8PQdQr6IWF9SBgMjjnLBpdTXqFsx\ntZKmEPkukbc9zcQGs0C6eeJmTIY8eaJ/0OMp6JMCgYEA4LxDkIjzpee2Rk4SMMfN\nI7Hk7mqbT+YVw/f7agz+eRIhecSver6FD0vTNgL58yrSaOI6NSpR1ptxz/kXZMJ3\nmkPb+8/V8d51VvUsfN05ZIZUJkGt8L9+ch5Ro4RY7/nLRGb+bb1ht6McIl7Miq/Y\nL3xM1twBTBhSWD90zoHkuSc=\n-----END PRIVATE KEY-----\n",
+    'token_uri' => 'https://oauth2.googleapis.com/token',
+    'firestore_base_url' => 'https://oauth2.googleapis.com/token',
+    'collection_users' => 'users',
+];
